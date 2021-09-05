@@ -1,0 +1,9 @@
+<?php
+
+// YOUR DATA //
+
+$PHPSESSID="AUTOMATIS TERISI";
+$TRXToken="AUTOMATIS TERISI";
+$TRXtokensecur="AUTOMATIS TERISI";
+
+?>
